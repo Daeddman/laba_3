@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWkn/U4pTro=",
+  "success": true,
+  "projectFilePath": "/Users/daeddman/RiderProjects/laba_3/task_2/task_2.csproj",
+  "expectedPackageFiles": [
+    "/Users/daeddman/.nuget/packages/sixlabors.imagesharp/3.1.5/sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "/Users/daeddman/.nuget/packages/system.drawing.common/9.0.0/system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

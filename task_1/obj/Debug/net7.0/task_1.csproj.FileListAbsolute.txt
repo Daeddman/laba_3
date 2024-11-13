@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/laba_3/task_1/bin/Debug/net7.0/task_1
+/Users/daeddman/RiderProjects/laba_3/task_1/bin/Debug/net7.0/task_1.deps.json
+/Users/daeddman/RiderProjects/laba_3/task_1/bin/Debug/net7.0/task_1.runtimeconfig.json
+/Users/daeddman/RiderProjects/laba_3/task_1/bin/Debug/net7.0/task_1.dll
+/Users/daeddman/RiderProjects/laba_3/task_1/bin/Debug/net7.0/task_1.pdb
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/task_1.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/task_1.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/task_1.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/task_1.dll
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/refint/task_1.dll
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/task_1.pdb
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/task_1.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/laba_3/task_1/obj/Debug/net7.0/ref/task_1.dll
